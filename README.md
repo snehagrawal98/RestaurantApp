@@ -2,7 +2,7 @@
 This is a basic UI of the homepage of a Restaurant Application that has data called through Api call.
 
 #**Language**: SwiftUI <br>
-#**IDE**: XCode 13 <br>
+#**IDE**: XCode 14 <br>
 #**Architectural Design Pattern**: MVVM <br>
 #**API used** : https://mocki.io/v1/0c5d380f-972a-44c9-bd11-ca5a2f154019
 
